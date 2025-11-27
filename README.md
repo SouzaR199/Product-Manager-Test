@@ -6,8 +6,8 @@
 - MySQL
 
 ## 1. Clone o repositório
-- via ssh: git clone git@github.com:SouzaR199/Product-Manager-Test.git
-- via https: git clone https://github.com/SouzaR199/Product-Manager-Test.git
+- via ssh: git clone `git@github.com:SouzaR199/Product-Manager-Test.git`
+- via https: git clone `https://github.com/SouzaR199/Product-Manager-Test.git`
 
 ## 2. Acesse o diretório do projeto
 cd Product-Manager-Test
